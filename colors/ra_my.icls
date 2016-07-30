@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<scheme name="ra_my" version="124" parent_scheme="Default">
+<scheme name="ra_my" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="0.77" />
@@ -177,18 +176,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_BRACES">
-      <value />
-    </option>
-    <option name="DEFAULT_BRACKETS">
-      <value />
-    </option>
-    <option name="DEFAULT_COMMA">
-      <value />
-    </option>
-    <option name="DEFAULT_DOT">
-      <value />
-    </option>
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="4ff6" />
@@ -199,15 +186,6 @@
       <value>
         <option name="FOREGROUND" value="137dff" />
       </value>
-    </option>
-    <option name="DEFAULT_OPERATION_SIGN">
-      <value />
-    </option>
-    <option name="DEFAULT_PARENTHS">
-      <value />
-    </option>
-    <option name="DEFAULT_SEMICOLON">
-      <value />
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
@@ -245,21 +223,6 @@
         <option name="EFFECT_COLOR" value="808080" />
       </value>
     </option>
-    <option name="EL.BOUNDS">
-      <value />
-    </option>
-    <option name="EL.KEYWORD">
-      <value />
-    </option>
-    <option name="EL.NUMBER">
-      <value />
-    </option>
-    <option name="EL.STRING">
-      <value />
-    </option>
-    <option name="EL_BACKGROUND">
-      <value />
-    </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff0000" />
@@ -285,8 +248,8 @@
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
         <option name="EFFECT_COLOR" value="808000" />
-        <option name="EFFECT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="808000" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
@@ -377,7 +340,6 @@
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
         <option name="FOREGROUND" value="cf6a13" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
@@ -407,7 +369,6 @@
     <option name="JS.LOCAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="137dff" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="JS.NUMBER">
@@ -442,18 +403,6 @@
         <option name="FOREGROUND" value="65b042" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="JSP_ATTRIBUTE_NAME">
-      <value />
-    </option>
-    <option name="JSP_ATTRIBUTE_VALUE">
-      <value />
-    </option>
-    <option name="JSP_COMMENT">
-      <value />
-    </option>
-    <option name="JSP_DIRECTIVE_BACKGROUND">
-      <value />
     </option>
     <option name="JSP_DIRECTIVE_NAME">
       <value />
@@ -648,57 +597,6 @@
       <value>
         <option name="FOREGROUND" value="e2ce00" />
       </value>
-    </option>
-    <option name="SCOPE_KEY_All">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Budget">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Crap">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Documents">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_DomPDF">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_External">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_FA-176: Vi måste fixa så att matchning bara sker mot &quot;active=1&quot; i searchdistrict, searchobjecttype, searchcriteria">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Failed commit: FA-2: Redirect after login">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Import">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Importer">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Javascript">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Log">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Non-Project Files">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Problems">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Project Files">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_ProjectEX">
-      <value />
-    </option>
-    <option name="SCOPE_KEY_Tests">
-      <value />
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
@@ -919,4 +817,3 @@
     </option>
   </attributes>
 </scheme>
-
