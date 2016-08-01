@@ -17,6 +17,9 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="c0b1836a-4a0c-418a-9f27-da16401aa63a" name="Starlink.ua andrey_dev" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
