@@ -20,7 +20,7 @@
       <webServer id="c0b1836a-4a0c-418a-9f27-da16401aa63a" name="Starlink.ua andrey_dev" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="f382b151-ffd9-4abc-b2b7-35464cd83dfc" name="test joomla" url="http://localhost">
+      <webServer id="f382b151-ffd9-4abc-b2b7-35464cd83dfc" name="PHP5 internal" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
