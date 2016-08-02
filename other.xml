@@ -1,4 +1,20 @@
 <application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
       <value>
@@ -35,7 +51,7 @@
         <option name="PATH_TO_PPK" value="" />
       </value>
     </option>
-    <option name="PATH_TO_PASSWORD_FILE" />
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
     <option name="TIMEOUT" value="10" />
     <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
     <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
@@ -49,10 +65,7 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="$USER_HOME$/AppData/Local/scoop/apps/nvm/1.1/nodejs/node.exe">
-      <version-cache last-modified="0" />
-    </local-interpreter>
-    <local-interpreter path="$USER_HOME$/AppData/Local/scoop/apps/nodejs/6.3.1/nodejs/node.exe">
-      <version-cache version="6.3.1" last-modified="1469123096000" />
+      <version-cache version="6.3.1" last-modified="1470039017776" />
     </local-interpreter>
   </component>
 </application>
