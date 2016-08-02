@@ -17,6 +17,9 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="f382b151-ffd9-4abc-b2b7-35464cd83dfc" name="PHP5 internal" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
