@@ -1,4 +1,9 @@
 <application>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration />
+    </phpcs_settings>
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="C:\Users\mao\AppData\Local\scoop\shims\php.exe" id="14b3aa74-ae84-47d1-9c5e-67450a5952e6" name="PHP 7" debugger_id="php.debugger.XDebug" />
