@@ -20,6 +20,14 @@
       <webServer id="f382b151-ffd9-4abc-b2b7-35464cd83dfc" name="PHP5 internal" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="8646331d-4a2e-4149-9bbc-9dba96fcad27" name="starlink.pp.ua" url="http://starlink.pp.ua">
+        <fileTransfer host="lists.starlink.ua" port="22" privateKey="C:\Dropbox\Private\05_utilitarian\IT\keys\starlink\starlink_mao_rsa" rootFolder="/var/www/starlink.pp.ua/" accessType="SFTP" username="mao" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
