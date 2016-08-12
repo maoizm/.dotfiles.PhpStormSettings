@@ -15,6 +15,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$APPLICATION_CONFIG_DIR$/codestyles/_mao_Code_Style.xml" />
+  </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
       <value>
@@ -65,7 +68,10 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="$USER_HOME$/AppData/Local/scoop/apps/nvm/1.1/nodejs/node.exe">
-      <version-cache version="6.3.1" last-modified="1470039017776" />
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/AppData/Local/scoop/apps/nodejs/6.3.1/nodejs/node.exe">
+      <version-cache version="6.3.1" last-modified="1469123096000" />
     </local-interpreter>
   </component>
 </application>
