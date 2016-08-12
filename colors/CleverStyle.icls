@@ -1,7 +1,7 @@
 <scheme name="CleverStyle" version="142" parent_scheme="Darcula">
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="11" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="3f5e39" />
     <option name="ANNOTATIONS_COLOR" value="3e83e7" />

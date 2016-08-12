@@ -6,8 +6,7 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\Users\ma0\AppData\Local\scoop\shims\php.exe" id="5dd232f9-567f-4622-ad8f-6b1b8ddc782b" name="PHP 7" debugger_id="php.debugger.XDebug" />
-      <interpreter home="D:\OneDrive\01_portable_apps\PHP5\php.exe" id="76254e00-151a-4f68-ad62-953c9e8ac67d" name="PHP 5" debugger_id="php.debugger.XDebug" />
+      <interpreter home="C:\Users\mao\AppData\Local\scoop\shims\php.exe" id="14b3aa74-ae84-47d1-9c5e-67450a5952e6" name="PHP 7" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
