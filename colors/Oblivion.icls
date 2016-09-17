@@ -1,7 +1,7 @@
 <scheme name="Oblivion" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
     <option name="ANNOTATIONS_COLOR" value="ffffff" />
@@ -50,9 +50,6 @@
     <option name="BREAKPOINT_ATTRIBUTES">
       <value />
     </option>
-    <option name="COFFEESCRIPT.BAD_CHARACTER">
-      <value />
-    </option>
     <option name="COFFEESCRIPT.BOOLEAN">
       <value>
         <option name="FOREGROUND" value="99ff" />
@@ -67,9 +64,6 @@
       <value>
         <option name="FOREGROUND" value="fffea9" />
       </value>
-    </option>
-    <option name="COFFEESCRIPT.FUNCTION_BINDING">
-      <value />
     </option>
     <option name="COFFEESCRIPT.FUNCTION_NAME">
       <value>
@@ -98,16 +92,10 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.HEREGEX_ID">
-      <value />
-    </option>
     <option name="COFFEESCRIPT.IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="729fcf" />
       </value>
-    </option>
-    <option name="COFFEESCRIPT.JAVASCRIPT_CONTENT">
-      <value />
     </option>
     <option name="COFFEESCRIPT.JAVASCRIPT_ID">
       <value>
@@ -124,9 +112,6 @@
       <value>
         <option name="FOREGROUND" value="729fcf" />
       </value>
-    </option>
-    <option name="COFFEESCRIPT.NUMBER">
-      <value />
     </option>
     <option name="COFFEESCRIPT.OBJECT_KEY">
       <value>

@@ -65,7 +65,14 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="$USER_HOME$/AppData/Local/scoop/apps/nvm/1.1/nodejs/node.exe">
-      <version-cache version="6.3.1" last-modified="1470039017776" />
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/AppData/Local/scoop/apps/nvm/1.1/v6.3.1/node.exe">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/AppData/Local/scoop/apps/nvm/1.1.1/v6.6.0/node.exe">
+      <version-cache version="6.6.0" last-modified="1474109182381" />
+      <npm-package value="$USER_HOME$/AppData/Local/scoop/apps/nvm/1.1.1/v6.6.0/node_modules/npm" />
     </local-interpreter>
   </component>
 </application>

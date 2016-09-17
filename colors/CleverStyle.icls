@@ -1,7 +1,7 @@
 <scheme name="CleverStyle" version="142" parent_scheme="Darcula">
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="11" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="3f5e39" />
     <option name="ANNOTATIONS_COLOR" value="3e83e7" />
@@ -76,8 +76,6 @@
         <option name="FOREGROUND" value="ffc66d" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
-    <option name="COFFEESCRIPT.LOCAL_VARIABLE" baseAttributes="JS.LOCAL_VARIABLE" />
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff0000" />
@@ -614,76 +612,206 @@
         <option name="FOREGROUND" value="287bde" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.ABBREVIATED_TEXT">
+      <value>
+        <option name="EFFECT_COLOR" value="4f83d3" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.ABBREVIATION">
+      <value>
+        <option name="FOREGROUND" value="4f83d3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.AUTO_LINK">
+      <value>
+        <option name="FOREGROUND" value="4f83d3" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.BOLD_MARKER">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.BULLET_LIST">
+      <value>
+        <option name="FOREGROUND" value="d4368a" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.CODE">
+      <value>
+        <option name="FOREGROUND" value="d4368a" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="a4c25b" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.DEFINITION_LIST">
+      <value>
+        <option name="FOREGROUND" value="a4c25b" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.EXPLICIT_LINK">
+      <value>
+        <option name="FOREGROUND" value="4f83d3" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.FOOTNOTE">
+      <value>
+        <option name="FOREGROUND" value="4f83d3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.FOOTNOTE_REF">
+      <value>
+        <option name="FOREGROUND" value="4f83d3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.HRULE">
+      <value>
+        <option name="EFFECT_COLOR" value="3c3f41" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.HTML_BLOCK">
+      <value>
+        <option name="FOREGROUND" value="cc7833" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.IMAGE">
+      <value>
+        <option name="FOREGROUND" value="4f83d3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.ITALIC_MARKER">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.MAIL_LINK">
+      <value>
+        <option name="FOREGROUND" value="4f83d3" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.REFERENCE_IMAGE">
+      <value>
+        <option name="FOREGROUND" value="4f83d3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.REFERENCE_LINK">
+      <value>
+        <option name="FOREGROUND" value="4f83d3" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.SMARTS">
+      <value>
+        <option name="FOREGROUND" value="a4c25b" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.SPECIAL_TEXT">
+      <value>
+        <option name="FOREGROUND" value="6897ba" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH">
+      <value>
+        <option name="EFFECT_COLOR" value="a9b7c6" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_BOLD">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="a9b7c6" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_ITALIC">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="a9b7c6" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE">
+      <value>
+        <option name="FOREGROUND" value="4f83d3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CAPTION">
+      <value>
+        <option name="FOREGROUND" value="4f83d3" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN">
+      <value>
+        <option name="FOREGROUND" value="6897ba" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD">
+      <value>
+        <option name="FOREGROUND" value="6897ba" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN">
+      <value>
+        <option name="FOREGROUND" value="a4c25b" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD">
+      <value>
+        <option name="FOREGROUND" value="a4c25b" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_ROW_EVEN">
+      <value>
+        <option name="FOREGROUND" value="6897ba" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_ROW_ODD">
+      <value>
+        <option name="FOREGROUND" value="a4c25b" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TASK_DONE_ITEM_MARKER">
+      <value>
+        <option name="FOREGROUND" value="d4368a" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TASK_ITEM_MARKER">
+      <value>
+        <option name="FOREGROUND" value="d4368a" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.VERBATIM">
+      <value>
+        <option name="FOREGROUND" value="d4368a" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.WIKI_LINK">
+      <value>
+        <option name="FOREGROUND" value="4f83d3" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff0000" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="MULTIMARKDOWN.ABBREVIATED_TEXT">
-      <value>
-        <option name="EFFECT_COLOR" value="4f83d3" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.ABBREVIATION">
-      <value>
-        <option name="FOREGROUND" value="4f83d3" />
-      </value>
-    </option>
     <option name="MULTIMARKDOWN.ANCHOR_LINK">
       <value>
         <option name="FOREGROUND" value="d4368a" />
         <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.AUTO_LINK">
-      <value>
-        <option name="FOREGROUND" value="4f83d3" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.BOLD_MARKER">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.BULLET_LIST">
-      <value>
-        <option name="FOREGROUND" value="d4368a" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.CODE">
-      <value>
-        <option name="FOREGROUND" value="d4368a" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.DEFINITION">
-      <value>
-        <option name="FOREGROUND" value="a4c25b" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.DEFINITION_LIST">
-      <value>
-        <option name="FOREGROUND" value="a4c25b" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.EXPLICIT_LINK">
-      <value>
-        <option name="FOREGROUND" value="4f83d3" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.FOOTNOTE">
-      <value>
-        <option name="FOREGROUND" value="4f83d3" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.FOOTNOTE_REF">
-      <value>
-        <option name="FOREGROUND" value="4f83d3" />
       </value>
     </option>
     <option name="MULTIMARKDOWN.HEADER_LEVEL_1">
@@ -717,37 +845,9 @@
         <option name="FOREGROUND" value="d4368a" />
       </value>
     </option>
-    <option name="MULTIMARKDOWN.HRULE">
-      <value>
-        <option name="EFFECT_COLOR" value="3c3f41" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.HTML_BLOCK">
-      <value>
-        <option name="FOREGROUND" value="cc7833" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.IMAGE">
-      <value>
-        <option name="FOREGROUND" value="4f83d3" />
-      </value>
-    </option>
     <option name="MULTIMARKDOWN.INLINE_HTML">
       <value>
         <option name="FOREGROUND" value="cc7833" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.ITALIC_MARKER">
-      <value>
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.MAIL_LINK">
-      <value>
-        <option name="FOREGROUND" value="4f83d3" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MULTIMARKDOWN.ORDERED_LIST">
@@ -765,17 +865,6 @@
         <option name="FOREGROUND" value="4f83d3" />
       </value>
     </option>
-    <option name="MULTIMARKDOWN.REFERENCE_IMAGE">
-      <value>
-        <option name="FOREGROUND" value="4f83d3" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.REFERENCE_LINK">
-      <value>
-        <option name="FOREGROUND" value="4f83d3" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="MULTIMARKDOWN.SETEXT_HEADER_LEVEL_1">
       <value>
         <option name="FOREGROUND" value="d4368a" />
@@ -786,30 +875,6 @@
         <option name="FOREGROUND" value="d4368a" />
       </value>
     </option>
-    <option name="MULTIMARKDOWN.SMARTS">
-      <value>
-        <option name="FOREGROUND" value="a4c25b" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.SPECIAL_TEXT">
-      <value>
-        <option name="FOREGROUND" value="6897ba" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.STRIKETHROUGH">
-      <value>
-        <option name="EFFECT_COLOR" value="a9b7c6" />
-        <option name="EFFECT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.STRIKETHROUGH_BOLD">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="a9b7c6" />
-        <option name="EFFECT_TYPE" value="3" />
-      </value>
-    </option>
     <option name="MULTIMARKDOWN.STRIKETHROUGH_BOLDITALIC">
       <value>
         <option name="FONT_TYPE" value="3" />
@@ -817,76 +882,9 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
-    <option name="MULTIMARKDOWN.STRIKETHROUGH_ITALIC">
-      <value>
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="a9b7c6" />
-        <option name="EFFECT_TYPE" value="3" />
-      </value>
-    </option>
     <option name="MULTIMARKDOWN.STRIKETHROUGH_MARKER">
       <value>
         <option name="EFFECT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.TABLE">
-      <value>
-        <option name="FOREGROUND" value="4f83d3" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.TABLE_CAPTION">
-      <value>
-        <option name="FOREGROUND" value="4f83d3" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.TABLE_CELL_REVEN_CEVEN">
-      <value>
-        <option name="FOREGROUND" value="6897ba" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.TABLE_CELL_REVEN_CODD">
-      <value>
-        <option name="FOREGROUND" value="6897ba" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.TABLE_CELL_RODD_CEVEN">
-      <value>
-        <option name="FOREGROUND" value="a4c25b" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.TABLE_CELL_RODD_CODD">
-      <value>
-        <option name="FOREGROUND" value="a4c25b" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.TABLE_ROW_EVEN">
-      <value>
-        <option name="FOREGROUND" value="6897ba" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.TABLE_ROW_ODD">
-      <value>
-        <option name="FOREGROUND" value="a4c25b" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.TASK_DONE_ITEM_MARKER">
-      <value>
-        <option name="FOREGROUND" value="d4368a" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.TASK_ITEM_MARKER">
-      <value>
-        <option name="FOREGROUND" value="d4368a" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.VERBATIM">
-      <value>
-        <option name="FOREGROUND" value="d4368a" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.WIKI_LINK">
-      <value>
-        <option name="FOREGROUND" value="4f83d3" />
       </value>
     </option>
     <option name="Map key">
