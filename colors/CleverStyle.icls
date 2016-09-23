@@ -688,6 +688,11 @@
         <option name="FOREGROUND" value="4f83d3" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.INLINE_HTML">
+      <value>
+        <option name="FOREGROUND" value="cc7833" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.ITALIC_MARKER">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -698,6 +703,16 @@
         <option name="FOREGROUND" value="4f83d3" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.ORDERED_LIST">
+      <value>
+        <option name="FOREGROUND" value="d4368a" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="4f83d3" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.REFERENCE_IMAGE">
@@ -845,24 +860,9 @@
         <option name="FOREGROUND" value="d4368a" />
       </value>
     </option>
-    <option name="MULTIMARKDOWN.INLINE_HTML">
-      <value>
-        <option name="FOREGROUND" value="cc7833" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.ORDERED_LIST">
-      <value>
-        <option name="FOREGROUND" value="d4368a" />
-      </value>
-    </option>
     <option name="MULTIMARKDOWN.QUOTE">
       <value>
         <option name="FOREGROUND" value="a4c25b" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="4f83d3" />
       </value>
     </option>
     <option name="MULTIMARKDOWN.SETEXT_HEADER_LEVEL_1">
