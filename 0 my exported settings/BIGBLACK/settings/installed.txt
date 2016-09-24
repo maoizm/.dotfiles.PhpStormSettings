@@ -1,0 +1,5 @@
+ColorIde
+ColorTree
+Key promoter
+com.paperetto.dash
+mobi.hsz.idea.gitignore

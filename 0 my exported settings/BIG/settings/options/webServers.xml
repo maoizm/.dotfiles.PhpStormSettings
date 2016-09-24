@@ -1,0 +1,33 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4547476a-607c-4f38-9471-9a1c5782e09e" name="lists.starlink.ua" url="http://lists.starlink.ua">
+        <fileTransfer host="lists.starlink.ua" port="22" privateKey="C:\Dropbox\Private\05_utilitarian\IT\keys\starlink\starlink_mao_rsa" rootFolder="/var/www/lists.stalink.ua/" accessType="SFTP" username="mao" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="247a36d4-5b11-4de6-a620-50769a7870a7" name="AWS ma0.dynu.com" url="http://ma0.dynu.com">
+        <fileTransfer host="ma0.dynu.com" port="22" privateKey="C:\Dropbox\Private\05_utilitarian\IT\keys\Amazon\aws_KeyPair01.pem" rootFolder="/var/www/html/ma0.dynu.com/public_html/" accessType="SFTP" username="ubuntu" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f382b151-ffd9-4abc-b2b7-35464cd83dfc" name="PHP5 internal" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="8646331d-4a2e-4149-9bbc-9dba96fcad27" name="starlink.pp.ua" url="http://starlink.pp.ua">
+        <fileTransfer host="lists.starlink.ua" port="22" privateKey="C:\Dropbox\Private\05_utilitarian\IT\keys\starlink\starlink_mao_rsa" rootFolder="/var/www/starlink.pp.ua/" accessType="SFTP" passphrase="dfc1dfcfdfd3dfd9dffedfc1dfdcdfc1dfdedfd9dfdcdfc1dfdedf8bdf8bdf8b" username="mao" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
