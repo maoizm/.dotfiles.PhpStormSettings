@@ -109,4 +109,7 @@
       <npm-package value="$USER_HOME$/AppData/Local/scoop/apps/nvm/1.1.1/v6.6.0/node_modules/npm" />
     </local-interpreter>
   </component>
+  <component name="SvgViewer.Settings">
+    <option name="PLUGIN_ENABLED" value="true" />
+  </component>
 </application>
