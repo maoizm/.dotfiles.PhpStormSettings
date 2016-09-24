@@ -1,3 +1,9 @@
 <inspections profile_name="Default" version="1.0">
+  <description>mao 2016.09.24</description>
   <option name="myName" value="Default" />
+  <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+    <option name="processCode" value="true" />
+    <option name="processLiterals" value="true" />
+    <option name="processComments" value="true" />
+  </inspection_tool>
 </inspections>
