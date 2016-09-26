@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="4547476a-607c-4f38-9471-9a1c5782e09e" name="lists.starlink.ua" url="http://lists.starlink.ua">
-        <fileTransfer host="lists.starlink.ua" port="22" privateKey="C:\Dropbox\Private\05_utilitarian\IT\keys\starlink\starlink_mao_rsa" rootFolder="/var/www/lists.stalink.ua/" accessType="SFTP" username="mao" keyPair="true">
+        <fileTransfer host="lists.starlink.ua" port="22" privateKey="C:\Dropbox\Private\05_utilitarian\IT\keys\starlink\starlink_mao_rsa" rootFolder="/var/www/lists.stalink.ua/" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -10,7 +10,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="247a36d4-5b11-4de6-a620-50769a7870a7" name="AWS ma0.dynu.com" url="http://ma0.dynu.com">
-        <fileTransfer host="ma0.dynu.com" port="22" privateKey="C:\Dropbox\Private\05_utilitarian\IT\keys\Amazon\aws_KeyPair01.pem" rootFolder="/var/www/html/ma0.dynu.com/public_html/" accessType="SFTP" username="ubuntu" keyPair="true">
+        <fileTransfer host="ma0.dynu.com" port="22" privateKey="C:\Dropbox\Private\05_utilitarian\IT\keys\Amazon\aws_KeyPair01.pem" rootFolder="/var/www/html/ma0.dynu.com/public_html/" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -21,7 +21,7 @@
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="8646331d-4a2e-4149-9bbc-9dba96fcad27" name="starlink.pp.ua" url="http://starlink.pp.ua">
-        <fileTransfer host="lists.starlink.ua" port="22" privateKey="C:\Dropbox\Private\05_utilitarian\IT\keys\starlink\starlink_mao_rsa" rootFolder="/var/www/starlink.pp.ua/" accessType="SFTP" passphrase="dfc1dfcfdfd3dfd9dffedfc1dfdcdfc1dfdedfd9dfdcdfc1dfdedf8bdf8bdf8b" username="mao" keyPair="true">
+        <fileTransfer host="lists.starlink.ua" port="22" privateKey="C:\Dropbox\Private\05_utilitarian\IT\keys\starlink\starlink_mao_rsa" rootFolder="/var/www/starlink.pp.ua/" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -29,5 +29,8 @@
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAABIAMVtv1slZf2Y+RNdTJkQA+kxvhxJJ7n5EvjLrm5iCDwXQmmhgmOUV9taFm/QX0iJQ0TiD7VL8sNkiyeNYUg00ntx/8uMvNAx28le2eudJvJI+TRvBCQEoALB+jEXQ7BconZPxPKuvQdxCyHcs63D/8B7qXj2SU9P/qx2tpefmunMeh1pbNtXX7df04Ucz/gYMjk51IgZNDowGLr0SFEJNgSBtQGoppn9WBxtZVXg5mvSo79ppRnEFhPfslzTT7nKi+QaMw3Ix3MJX5b+JOK1rFEYx77DzfdO4orVlCnknBEVDRBKniQXqBQL0vDDmBW36DfLiKzBhtXUPc8EoKM0zhhf0ZFqpDzxlAgq2y00OoP3aNh/cszlK4T2/EznUIrU4HIVkYbFLqHObtn0M1v6uc=</data>
   </component>
 </application>
