@@ -1541,9 +1541,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="bemhtml.braces">
-      <value />
-    </option>
     <option name="bemhtml.keyword.entity">
       <value>
         <option name="FOREGROUND" value="6067e7" />
@@ -1555,12 +1552,6 @@
         <option name="FOREGROUND" value="6067e7" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="bemhtml.keywords.colon">
-      <value />
-    </option>
-    <option name="bemhtml.keywords.delim">
-      <value />
     </option>
   </attributes>
 </scheme>
