@@ -1,4 +1,11 @@
-<scheme name="mao_Railcasts" version="142" parent_scheme="Default">
+<scheme name="maoRailcasts" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2016-09-26T10:27:44</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2016.2.0.0</property>
+    <property name="modified">2016-09-26T10:28:42</property>
+    <property name="originalScheme">mao_Railcasts</property>
+  </metaInfo>
   <option name="LINE_SPACING" value="0.85" />
   <font>
     <option name="EDITOR_FONT_NAME" value="InputMonoNarrow" />
