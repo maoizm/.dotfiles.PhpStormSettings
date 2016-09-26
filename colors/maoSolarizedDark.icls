@@ -1,7 +1,7 @@
 <scheme name="maoSolarizedDark" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="0.85" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_NAME" value="InputMonoNarrow" />
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
@@ -9,7 +9,7 @@
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_NAME" value="InputMonoCompressed" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
