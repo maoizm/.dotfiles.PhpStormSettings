@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Console.TableResult.HideColumn">
+        <abbreviation name="hc" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
