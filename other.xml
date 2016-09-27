@@ -1,4 +1,7 @@
 <application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/AppData/Local/scoop/apps/nvm/1.1.1/nodejs/node.exe" />
+  </component>
   <component name="SvgViewer.Settings">
     <option name="PLUGIN_ENABLED" value="true" />
   </component>
