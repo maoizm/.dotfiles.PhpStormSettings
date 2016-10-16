@@ -1,4 +1,4 @@
-<code_scheme name="mao">
+<code_scheme name="! my Code Style">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
       <option name="INDENT_SIZE" value="2" />
@@ -11,6 +11,10 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
@@ -21,16 +25,15 @@
     <option name="LOWER_CASE_NULL_CONST" value="true" />
     <option name="BLANK_LINE_BEFORE_RETURN_STATEMENT" value="true" />
   </PHPCodeStyleSettings>
-  <codeStyleSettings language="Blade">
+  <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
-  <codeStyleSettings language="CSS">
+  <codeStyleSettings language="HAML">
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
@@ -43,8 +46,15 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="2" />
     <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Jade">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
@@ -62,16 +72,10 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
-    <option name="BRACE_STYLE" value="2" />
-    <option name="ELSE_ON_NEW_LINE" value="true" />
-    <option name="CATCH_ON_NEW_LINE" value="true" />
-    <option name="SPACE_AFTER_TYPE_CAST" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
-      <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
@@ -89,7 +93,7 @@
   <codeStyleSettings language="Twig">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>

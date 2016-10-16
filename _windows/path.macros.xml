@@ -1,6 +1,0 @@
-<application>
-  <component name="PathMacrosImpl">
-    <macro name="DROPBOX" value="E:/Dropbox" />
-    <macro name="ONEDRIVE" value="E:/OneDrive" />
-  </component>
-</application>
