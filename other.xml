@@ -9,11 +9,42 @@
         </expanded-state>
         <selected-state>
           <State>
+            <id>CSS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+    <entry key="mao">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
             <id>AngularJS</id>
           </State>
         </selected-state>
       </profile-state>
     </entry>
+    <entry key="unnamed">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$DROPBOX$/!my_environment_customization/Utilities/PhpStorm/.dotfiles.PhpStormSettings/codestyles/mao.xml" />
   </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
@@ -77,5 +108,8 @@
       <version-cache version="6.6.0" last-modified="1474109182381" />
       <npm-package value="$USER_HOME$/AppData/Local/scoop/apps/nvm/1.1.1/v6.6.0/node_modules/npm" />
     </local-interpreter>
+  </component>
+  <component name="SvgViewer.Settings">
+    <option name="PLUGIN_ENABLED" value="true" />
   </component>
 </application>

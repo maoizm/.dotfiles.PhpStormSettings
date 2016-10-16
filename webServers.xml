@@ -21,7 +21,7 @@
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="8646331d-4a2e-4149-9bbc-9dba96fcad27" name="starlink.pp.ua" url="http://starlink.pp.ua">
-        <fileTransfer host="lists.starlink.ua" port="22" privateKey="C:\Dropbox\Private\05_utilitarian\IT\keys\starlink\starlink_mao_rsa" rootFolder="/var/www/starlink.pp.ua/" accessType="SFTP" username="mao" keyPair="true">
+        <fileTransfer host="lists.starlink.ua" port="22" privateKey="C:\Dropbox\Private\05_utilitarian\IT\keys\starlink\starlink_mao_rsa" rootFolder="/var/www/starlink.pp.ua/" accessType="SFTP" passphrase="dfc1dfcfdfd3dfd9dffedfc1dfdcdfc1dfdedfd9dfdcdfc1dfdedf8bdf8bdf8b" username="mao" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
