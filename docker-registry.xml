@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="green.turban@gmail.com" password="b7T9Xgp5vhBg">
+      <option name="address" value="registry.hub.docker.com" />
+      <option name="name" value="Docker Registry" />
+      <option name="username" value="ma00" />
+    </DockerRegistry>
+  </component>
+</application>

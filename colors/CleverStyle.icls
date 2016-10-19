@@ -319,21 +319,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HAML_CLASS" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="HAML_FILTER" baseAttributes="DEFAULT_LABEL" />
-    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="HAML_ID" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
-    <option name="HAML_RUBY_START" baseAttributes="DEFAULT_KEYWORD" />
     <option name="HAML_TAG">
       <value>
         <option name="FOREGROUND" value="cc783c" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HAML_TEXT" baseAttributes="TEXT" />
-    <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
@@ -688,6 +679,11 @@
         <option name="FOREGROUND" value="4f83d3" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.INLINE_HTML">
+      <value>
+        <option name="FOREGROUND" value="cc7833" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.ITALIC_MARKER">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -698,6 +694,16 @@
         <option name="FOREGROUND" value="4f83d3" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.ORDERED_LIST">
+      <value>
+        <option name="FOREGROUND" value="d4368a" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="4f83d3" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.REFERENCE_IMAGE">
@@ -845,24 +851,9 @@
         <option name="FOREGROUND" value="d4368a" />
       </value>
     </option>
-    <option name="MULTIMARKDOWN.INLINE_HTML">
-      <value>
-        <option name="FOREGROUND" value="cc7833" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.ORDERED_LIST">
-      <value>
-        <option name="FOREGROUND" value="d4368a" />
-      </value>
-    </option>
     <option name="MULTIMARKDOWN.QUOTE">
       <value>
         <option name="FOREGROUND" value="a4c25b" />
-      </value>
-    </option>
-    <option name="MULTIMARKDOWN.REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="4f83d3" />
       </value>
     </option>
     <option name="MULTIMARKDOWN.SETEXT_HEADER_LEVEL_1">

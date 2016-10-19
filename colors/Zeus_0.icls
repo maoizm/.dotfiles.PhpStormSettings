@@ -681,9 +681,6 @@
         <option name="FOREGROUND" value="a7dbd8" />
       </value>
     </option>
-    <option name="HAML_FILTER_CONTENT">
-      <value />
-    </option>
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="a7b3c2" />
@@ -708,11 +705,6 @@
     <option name="HAML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="f6624a" />
-      </value>
-    </option>
-    <option name="HAML_TEXT">
-      <value>
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="HAML_XHTML">
