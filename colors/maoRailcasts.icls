@@ -881,17 +881,9 @@
         <option name="FOREGROUND" value="cc7833" />
       </value>
     </option>
-    <option name="LESS_INJECTED_CODE">
-      <value />
-    </option>
     <option name="LESS_JS_CODE_DELIM">
       <value>
         <option name="BACKGROUND" value="232323" />
-      </value>
-    </option>
-    <option name="LESS_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="d0d0ff" />
       </value>
     </option>
     <option name="MACRONAME">
@@ -1541,9 +1533,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="bemhtml.braces">
-      <value />
-    </option>
     <option name="bemhtml.keyword.entity">
       <value>
         <option name="FOREGROUND" value="6067e7" />
@@ -1555,12 +1544,6 @@
         <option name="FOREGROUND" value="6067e7" />
         <option name="FONT_TYPE" value="1" />
       </value>
-    </option>
-    <option name="bemhtml.keywords.colon">
-      <value />
-    </option>
-    <option name="bemhtml.keywords.delim">
-      <value />
     </option>
   </attributes>
 </scheme>
