@@ -17,7 +17,7 @@
       <language id="Mercurial" NEW_FILE="true" ENABLE="true" />
       <language id="Monotone" NEW_FILE="true" ENABLE="true" />
       <language id="Nodemon" NEW_FILE="true" ENABLE="false" />
-      <language id="Npm" NEW_FILE="true" ENABLE="false" />
+      <language id="Npm" NEW_FILE="true" ENABLE="true" />
       <language id="Perforce" NEW_FILE="true" ENABLE="true" />
       <language id="Team Foundation" NEW_FILE="true" ENABLE="true" />
     </languages>
@@ -29,6 +29,7 @@
 *.iml
 out
 gen</template>
+      <template name="node" />
     </userTemplates>
   </component>
 </application>
