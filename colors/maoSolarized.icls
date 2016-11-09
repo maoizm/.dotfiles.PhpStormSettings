@@ -1,11 +1,4 @@
 <scheme name="maoSolarized" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2016-11-09T05:13:44</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2016.2.2.0.0</property>
-    <property name="modified">2016-11-09T05:14:44</property>
-    <property name="originalScheme">Solarized Dark</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="InputMonoNarrow" />
@@ -16,7 +9,6 @@
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
