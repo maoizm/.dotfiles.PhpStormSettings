@@ -1,7 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="File '[site-joomla] - ...\templates\starlink\templateDetails.xml'" />
+    <option name="defaultScopeName" value="File '[site-joomla] - ...\templates\starlink\templateDetails.xml'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="File '[site-joomla] - ...\templates\starlink\templateDetails.xml'" />
+    <option name="FILE_MASK" value="modules.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
