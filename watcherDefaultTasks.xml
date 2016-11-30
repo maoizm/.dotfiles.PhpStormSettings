@@ -3,7 +3,7 @@
     <TaskOptions isEnabled="true">
       <option name="arguments" value="postcss" />
       <option name="checkSyntaxErrors" value="true" />
-      <option name="description" value="" />
+      <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="css" />
       <option name="immediateSync" value="true" />
@@ -14,7 +14,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="gulp" />
-      <option name="scopeName" value="starlink templates new" />
+      <option name="scopeName" value="starlink.ua templates" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="E:/0projects/j1/app" />
       <envs />
@@ -24,7 +24,7 @@
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
-      <option name="fileExtension" value="sass" />
+      <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Sass" />
       <option name="output" value="$FileNameWithoutExtension$.css:$FileNameWithoutExtension$.css.map" />
@@ -32,7 +32,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="" />
+      <option name="program" value="gulp build:bootstrap" />
       <option name="scopeName" value="__bootstrap" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
