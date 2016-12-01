@@ -3,6 +3,7 @@
     <option name="customScope" value="File '[app] - ...\gulpfile.babel.js'" />
     <option name="defaultScopeName" value="File '[app] - ...\gulpfile.babel.js'" />
     <option name="SEARCH_SCOPE" value="File '[app] - ...\gulpfile.babel.js'" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -11,10 +12,10 @@
       <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>modules.php</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
