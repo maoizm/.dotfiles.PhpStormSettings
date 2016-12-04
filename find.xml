@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[app] - ...\.src\mod_starlink_calculator_outsourcing\css\starlink_calculator_outsourcing.css'" />
-    <option name="defaultScopeName" value="File '[app] - ...\.src\mod_starlink_calculator_outsourcing\css\starlink_calculator_outsourcing.css'" />
+    <option name="customScope" value="File '[app] - ...\.src\mod_starlink_calculator_outsourcing\js\starlink_calculator_outsourcing.js'" />
+    <option name="defaultScopeName" value="File '[app] - ...\.src\mod_starlink_calculator_outsourcing\js\starlink_calculator_outsourcing.js'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[app] - ...\.src\mod_starlink_calculator_outsourcing\css\starlink_calculator_outsourcing.css'" />
+    <option name="SEARCH_SCOPE" value="File '[app] - ...\.src\mod_starlink_calculator_outsourcing\js\starlink_calculator_outsourcing.js'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
