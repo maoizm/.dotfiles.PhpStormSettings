@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[app] - ...\gulpfile.babel.js'" />
-    <option name="defaultScopeName" value="File '[app] - ...\gulpfile.babel.js'" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[app] - ...\gulpfile.babel.js'" />
+    <option name="customScope" value="File '[app] - ...\.src\mod_starlink_calculator_outsourcing\js\starlink_calculator_outsourcing.js'" />
+    <option name="defaultScopeName" value="File '[app] - ...\.src\mod_starlink_calculator_outsourcing\js\starlink_calculator_outsourcing.js'" />
+    <option name="SEARCH_SCOPE" value="File '[app] - ...\.src\mod_starlink_calculator_outsourcing\js\starlink_calculator_outsourcing.js'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
