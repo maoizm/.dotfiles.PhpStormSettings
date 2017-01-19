@@ -1,0 +1,22 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://localhost:2375" />
+        <option name="certificatesPath" value="D:\Users\mao\.docker\machine\machines\default" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="E:\0projects\j1\app" />
+              <option name="virtualMachinePath" value="/app" />
+            </DockerPathMappingImpl>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="E:\0projects\j1" />
+              <option name="virtualMachinePath" value="/docker" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
+      </configuration>
+    </remote-server>
+  </component>
+</application>
