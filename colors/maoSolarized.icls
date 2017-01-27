@@ -1106,6 +1106,19 @@
         <option name="ERROR_STRIPE_COLOR" value="ccccff" />
       </value>
     </option>
+    <option name="IGNORE.HEADER">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="BACKGROUND" value="4d574d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IGNORE.SECTION">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="BACKGROUND" value="4d574d" />
+      </value>
+    </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value />
     </option>
@@ -1114,6 +1127,12 @@
         <option name="EFFECT_COLOR" value="b58900" />
         <option name="ERROR_STRIPE_COLOR" value="b58900" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="INI.KEY">
+      <value>
+        <option name="FOREGROUND" value="474cff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
