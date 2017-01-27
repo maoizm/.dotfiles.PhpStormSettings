@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
     <option name="myShellPath" value="C:\Users\mao\.babun\embed.bat" />
-    <option name="myTabName" value="cmder" />
+    <option name="myTabName" value="babun" />
   </component>
 </application>
