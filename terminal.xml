@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="cmd.exe /k &quot;%ConEmuBaseDir%\CmdInit.cmd&quot;" />
-    <option name="myTabName" value="cmder" />
+    <option name="myShellPath" value="C:\Dropbox\!my_environment_customization\Utilities\PhpStorm\babun.cmd" />
+    <option name="myTabName" value="babun::bash" />
   </component>
 </application>
