@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[app] - ...\.src\mod_starlink_calculator_outsourcing\js\starlink_calculator_outsourcing.js'" />
-    <option name="defaultScopeName" value="File '[app] - ...\.src\mod_starlink_calculator_outsourcing\js\starlink_calculator_outsourcing.js'" />
-    <option name="SEARCH_SCOPE" value="File '[app] - ...\.src\mod_starlink_calculator_outsourcing\js\starlink_calculator_outsourcing.js'" />
+    <option name="customScope" value="Build &amp; config" />
+    <option name="defaultScopeName" value="Build &amp; config" />
+    <option name="SEARCH_SCOPE" value="Build &amp; config" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
