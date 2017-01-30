@@ -9,7 +9,15 @@
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="InputMonoNarrow" />
+    <option name="EDITOR_FONT_SIZE" value="11" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
     <option name="ANNOTATIONS_COLOR" value="98ac94" />
@@ -26,6 +34,7 @@
     <option name="MODIFIED_LINES_COLOR" value="99ccff" />
     <option name="NOTIFICATION_BACKGROUND" value="fdf6e3" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
+    <option name="RECURSIVE_CALL_ATTRIBUTES" value="ffffd7" />
     <option name="RIGHT_MARGIN_COLOR" value="73642" />
     <option name="SELECTED_INDENT_GUIDE" value="586e75" />
     <option name="SELECTED_TEARLINE_COLOR" value="657b83" />
