@@ -11,11 +11,11 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="InputMonoNarrow" />
-    <option name="EDITOR_FONT_SIZE" value="11" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
