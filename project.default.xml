@@ -1,50 +1,29 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="ComposerSettings">
-        <pharPath>$ONEDRIVE_HOME$\01_portable_apps\Composer\composer.phar</pharPath>
-      </component>
       <component name="InspectionProjectProfileManager">
-        <profile version="1.0">
-          <option name="myName" value="Project Default" />
-          <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
-            <option name="processCode" value="true" />
-            <option name="processLiterals" value="true" />
-            <option name="processComments" value="true" />
-          </inspection_tool>
-        </profile>
         <option name="PROJECT_PROFILE" />
-        <option name="USE_PROJECT_PROFILE" value="false" />
         <version value="1.0" />
       </component>
-      <component name="IssueNavigationConfiguration">
-        <option name="links">
-          <list>
-            <IssueNavigationLink>
-              <option name="issueRegexp" value="(\d+)" />
-              <option name="linkRegexp" value="http://github.com/maoizm/j1/issues/$1" />
-            </IssueNavigationLink>
-          </list>
-        </option>
-      </component>
       <component name="JavaScriptLibraryMappings">
+        <includedPredefinedLibrary name="ECMAScript 6" />
         <includedPredefinedLibrary name="Node.js Core" />
-        <excludedPredefinedLibrary name="HTML" />
       </component>
       <component name="JavaScriptSettings">
-        <option name="languageLevel" value="ES5" />
+        <option name="languageLevel" value="ES6" />
       </component>
       <component name="JsBowerSettings">
         <exe-path>$USER_HOME$/AppData/Local/scoop/apps/nvm/1.1.1/nodejs/bower.cmd</exe-path>
-        <config-path>./bower.json</config-path>
+        <config-path />
       </component>
-      <component name="PhpProjectSharedConfiguration" php_language_level="7" />
-      <component name="PhpUnit">
-        <phpunit_settings>
-          <PhpUnitSettings load_method="CUSTOM_LOADER" />
-        </phpunit_settings>
+      <component name="JsFlowSettings">
+        <service-enabled>false</service-enabled>
+        <exe-path />
+        <annotation-enable>false</annotation-enable>
+        <other-services-enabled>false</other-services-enabled>
       </component>
-      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7" />
+      <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP7+xdebug" />
       <component name="ProjectDictionaryState">
         <dictionary name="mao" />
       </component>
@@ -64,67 +43,21 @@
           </profile-state>
         </entry>
       </component>
-      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-        <OptionsSetting value="true" id="Add" />
-        <OptionsSetting value="true" id="Remove" />
-        <OptionsSetting value="true" id="Checkout" />
-        <OptionsSetting value="true" id="Update" />
-        <OptionsSetting value="true" id="Status" />
-        <OptionsSetting value="true" id="Edit" />
-        <ConfirmationsSetting value="0" id="Add" />
-        <ConfirmationsSetting value="0" id="Remove" />
-      </component>
-      <component name="ProjectResources">
-        <xml-schema-version>XMLSchema_1_1</xml-schema-version>
-      </component>
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="terminal" />
-        <property name="settings.editor.splitter.proportion" value="0.2" />
-        <property name="nodejs_interpreter_path" value="$USER_HOME$/AppData/Local/scoop/apps/nvm/1.1.1/v6.6.0/node" />
-        <property name="javascript.nodejs.core.library.configured.version" value="6.6.0" />
-        <property name="last_opened_file_path" value="E:/0projects/starlink" />
-        <property name="JavaScriptPreferStrict" value="true" />
+        <property name="settings.editor.selected.configurable" value="configurable.stylesheets" />
+        <property name="JavaScriptPreferStrict" value="false" />
         <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-      </component>
-      <component name="RemoteSynchronizer">
-        <option name="targetMappings">
-          <list>
-            <TargetMappings>
-              <option name="name" value="Default" />
-            </TargetMappings>
-          </list>
-        </option>
-      </component>
-      <component name="SshConsoleOptionsProvider">
-        <option name="myEncoding" value="UTF-8" />
-        <option name="myConnectionType" value="NONE" />
-      </component>
-      <component name="SvnConfiguration">
-        <configuration>D:/Users/mao\AppData\Roaming\Subversion</configuration>
-      </component>
-      <component name="VagrantProjectSettings">
-        <option name="instanceFolder" value="" />
-        <option name="provider" value="" />
+        <property name="nodejs_interpreter_path" value="$USER_HOME$/AppData/Local/scoop/apps/nvm/1.1.1/nodejs/node" />
+        <property name="javascript.nodejs.core.library.configured.version" value="7.2.1" />
+        <property name="last_opened_file_path" value="D:/laragon/bin/php/php-7.0.15-nts-Win32-VC14-x64/php.exe" />
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
       </component>
       <component name="masterDetails">
         <states>
-          <state key="Copyright.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
           <state key="ScopeChooserConfigurable.UI">
             <settings>
-              <last-edited>starlink template</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
