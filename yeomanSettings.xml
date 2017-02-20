@@ -1,0 +1,5 @@
+<application>
+  <component name="YeomanSettings">
+    <option name="nodeExePath" value="$USER_HOME$/scoop/apps/nvm/current/nodejs/node" />
+  </component>
+</application>
