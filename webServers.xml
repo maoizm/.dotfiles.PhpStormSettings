@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0745b77d-6dd9-41a1-92d0-d3b67c9f2f3e" name="starlink.dev" url="http://starlink.dev">
+        <fileTransfer port="0" mountedRoot="C:\laragon\www\starlink" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
