@@ -1,4 +1,11 @@
 <scheme name="maoSolarized" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2017-02-27T06:37:58</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2016.3.2.0.0</property>
+    <property name="modified">2017-02-27T06:38:24</property>
+    <property name="originalScheme">maoSolarizedCopy</property>
+  </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
   <font>
     <option name="EDITOR_FONT_NAME" value="InputMonoNarrow" />
@@ -13945,7 +13952,6 @@
     <option name="SQL_KEYWORD">
       <value>
         <option name="FOREGROUND" value="b58900" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SQL_LABEL">
@@ -13956,6 +13962,7 @@
     <option name="SQL_LOCAL_ALIAS">
       <value>
         <option name="FOREGROUND" value="859900" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SQL_NUMBER">
@@ -13977,17 +13984,18 @@
     <option name="SQL_SCHEMA">
       <value>
         <option name="FOREGROUND" value="2aa198" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SQL_STRING">
       <value>
         <option name="FOREGROUND" value="268bd2" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SQL_TABLE">
       <value>
         <option name="FOREGROUND" value="2aa198" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SQL_VARIABLE">
