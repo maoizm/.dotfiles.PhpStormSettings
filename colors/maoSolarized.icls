@@ -3,7 +3,7 @@
     <property name="created">2017-02-27T06:37:58</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-02-27T06:38:24</property>
+    <property name="modified">2017-02-28T01:33:55</property>
     <property name="originalScheme">maoSolarizedCopy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
@@ -784,7 +784,7 @@
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="4d1d08" />
+        <option name="BACKGROUND" value="4d2b1b" />
         <option name="ERROR_STRIPE_COLOR" value="4d1d08" />
       </value>
     </option>
@@ -13596,6 +13596,11 @@
         <option name="FOREGROUND" value="b58800" />
       </value>
     </option>
+    <option name="PHP_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
+      </value>
+    </option>
     <option name="PHP_DOC_TAG">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -13608,6 +13613,11 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
+    <option name="PHP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
         <option name="BACKGROUND" value="2b36" />
@@ -13616,6 +13626,11 @@
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="dc322f" />
+      </value>
+    </option>
+    <option name="PHP_VAR">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
