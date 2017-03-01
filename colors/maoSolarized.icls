@@ -1,4 +1,11 @@
 <scheme name="maoSolarized" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2017-02-27T06:37:58</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2016.3.2.0.0</property>
+    <property name="modified">2017-02-28T01:33:55</property>
+    <property name="originalScheme">maoSolarizedCopy</property>
+  </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
   <font>
     <option name="EDITOR_FONT_NAME" value="InputMonoNarrow" />
@@ -10,14 +17,15 @@
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="InputMonoNarrow" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
     <option name="ANNOTATIONS_COLOR" value="98ac94" />
@@ -776,7 +784,7 @@
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="4d1d08" />
+        <option name="BACKGROUND" value="4d2b1b" />
         <option name="ERROR_STRIPE_COLOR" value="4d1d08" />
       </value>
     </option>
@@ -1095,7 +1103,7 @@
       <value>
         <option name="FOREGROUND" value="268bd2" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="HTML_TAG">
@@ -13588,6 +13596,11 @@
         <option name="FOREGROUND" value="b58800" />
       </value>
     </option>
+    <option name="PHP_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="d33682" />
+      </value>
+    </option>
     <option name="PHP_DOC_TAG">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -13600,7 +13613,11 @@
         <option name="FOREGROUND" value="859900" />
       </value>
     </option>
-    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PHP_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value>
         <option name="BACKGROUND" value="2b36" />
@@ -13611,7 +13628,11 @@
         <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="PHP_VAR">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
       <value>
         <option name="EFFECT_COLOR" value="dc322f" />
@@ -13946,7 +13967,6 @@
     <option name="SQL_KEYWORD">
       <value>
         <option name="FOREGROUND" value="b58900" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SQL_LABEL">
@@ -13957,6 +13977,7 @@
     <option name="SQL_LOCAL_ALIAS">
       <value>
         <option name="FOREGROUND" value="859900" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SQL_NUMBER">
@@ -13978,17 +13999,18 @@
     <option name="SQL_SCHEMA">
       <value>
         <option name="FOREGROUND" value="2aa198" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SQL_STRING">
       <value>
         <option name="FOREGROUND" value="268bd2" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SQL_TABLE">
       <value>
         <option name="FOREGROUND" value="2aa198" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SQL_VARIABLE">
