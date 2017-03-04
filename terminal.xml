@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="&quot;D:\Users\mao\scoop\apps\git-with-openssh\current\usr\bin\mintty.exe&quot; /bin/bash -l -i" />
+    <option name="myShellPath" value="D:\Users\mao\scoop\apps\git-with-openssh\current\git-cmd.exe" />
     <option name="myTabName" value="" />
   </component>
 </application>
