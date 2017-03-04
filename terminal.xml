@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="cmd.exe /c &quot;c:\tools\git-sdk-64\usr\bin\bash.exe --login -i&quot;" />
-    <option name="myTabName" value="cmd  babun::zsh    C:\Dropbox\!my_environment_customization\Utilities\PhpStorm\babun-zsh.cmd" />
+    <option name="myShellPath" value="&quot;D:\Users\mao\scoop\apps\git-with-openssh\current\bin\sh.exe&quot; --login -i" />
+    <option name="myTabName" value="" />
   </component>
 </application>
