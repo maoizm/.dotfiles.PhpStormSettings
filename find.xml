@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'app'" />
-    <option name="defaultScopeName" value="Project 'app'" />
+    <option name="customScope" value="File '[app] - ...\tmp\gulp-blacklist.json'" />
+    <option name="defaultScopeName" value="File '[app] - ...\tmp\gulp-blacklist.json'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'app'" />
+    <option name="SEARCH_SCOPE" value="File '[app] - ...\tmp\gulp-blacklist.json'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
