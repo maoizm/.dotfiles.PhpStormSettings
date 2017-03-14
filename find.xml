@@ -1,12 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[app] - ...\.test\gulp2\_build\css\starlink_calculator_outsourcing.css'" />
-    <option name="defaultScopeName" value="File '[app] - ...\.test\gulp2\_build\css\starlink_calculator_outsourcing.css'" />
-    <option name="localRegularExpressions" value="true" />
+    <option name="customScope" value="01 Build and config" />
+    <option name="defaultScopeName" value="01 Build and config" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[app] - ...\.test\gulp2\_build\css\starlink_calculator_outsourcing.css'" />
+    <option name="SEARCH_SCOPE" value="01 Build and config" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,6 +17,7 @@
       <mask>*.php</mask>
       <mask>modules.php</mask>
       <mask>*.css</mask>
+      <mask>*.js,*.json</mask>
     </recentFileMasks>
   </component>
 </application>
