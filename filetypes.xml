@@ -5,6 +5,7 @@
       <mapping ext="markdown" type="Markdown" />
       <mapping ext="ttf" type="Native" />
       <mapping ext="orig" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
