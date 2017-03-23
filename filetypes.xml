@@ -8,6 +8,7 @@
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
       <mapping ext="ini" type="YAML" />
+      <mapping ext="src" type="YAML" />
     </extensionMap>
   </component>
 </application>
