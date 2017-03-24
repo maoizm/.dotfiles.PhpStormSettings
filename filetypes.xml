@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".editorconfig" type="Ini" />
-      <removed_mapping ext="ini" approved="true" type="Ini" />
+      <removed_mapping ext="ini" type="Ini" />
       <mapping ext="markdown" type="Markdown" />
       <mapping ext="ttf" type="Native" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
