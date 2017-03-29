@@ -4,6 +4,9 @@
       <webServer id="0745b77d-6dd9-41a1-92d0-d3b67c9f2f3e" name="starlink.dev" url="http://starlink.dev">
         <fileTransfer port="0" mountedRoot="C:\laragon\www\starlink" accessType="MOUNT" />
       </webServer>
+      <webServer id="cd51ef76-b4fc-44c8-aae9-bbd19efd99e1" name="joomla.dev" url="http://joomla.dev">
+        <fileTransfer port="0" mountedRoot="C:\laragon\www\joomla" accessType="MOUNT" />
+      </webServer>
     </option>
   </component>
 </application>
