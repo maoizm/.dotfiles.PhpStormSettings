@@ -1,10 +1,9 @@
 <scheme name="maoSolarized" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-02-27T06:37:58</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-03-24T12:19:07</property>
+    <property name="modified">2017-03-28T20:03:57</property>
     <property name="originalScheme">maoSolarizedCopy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
@@ -13,18 +12,19 @@
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Roboto Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="InputMonoCondensed" />
+    <option name="EDITOR_FONT_NAME" value="Roboto Mono" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="0.8" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
@@ -616,12 +616,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_ATTRIBUTE">
-      <value>
-        <option name="FOREGROUND" value="859900" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="586e75" />
@@ -733,12 +727,6 @@
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
         <option name="FOREGROUND" value="79a71" />
-      </value>
-    </option>
-    <option name="DEFAULT_PARAMETER">
-      <value>
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="485961" />
       </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -1167,11 +1155,6 @@
     <option name="INI.KEY">
       <value>
         <option name="FOREGROUND" value="474cff" />
-      </value>
-    </option>
-    <option name="INI.SECTION">
-      <value>
-        <option name="FOREGROUND" value="859900" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1537,11 +1520,6 @@
     <option name="MARKDOWN.VERBATIM">
       <value>
         <option name="BACKGROUND" value="73642" />
-      </value>
-    </option>
-    <option name="MARKDOWN_CODE_FENCE">
-      <value>
-        <option name="FOREGROUND" value="6f868d" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.BOLD_ABBREVIATED_TEXT">
