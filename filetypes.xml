@@ -1,18 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".editorconfig" type="Ini" />
       <mapping pattern=".npmrc" type="Ini" />
+      <mapping pattern=".editorconfig" type="Ini" />
       <removed_mapping ext="ini" type="Ini" />
       <mapping ext="markdown" type="Markdown" />
       <mapping ext="ttf" type="Native" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="mnu" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="lng" type="PLAIN_TEXT" />
+      <mapping ext="psd1" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="Perl" />
-      <mapping ext="ini" type="YAML" />
       <mapping ext="src" type="YAML" />
+      <mapping ext="ini" type="YAML" />
     </extensionMap>
   </component>
 </application>
