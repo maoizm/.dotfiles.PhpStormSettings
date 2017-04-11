@@ -6,6 +6,7 @@
       <removed_mapping ext="ini" type="Ini" />
       <mapping ext="markdown" type="Markdown" />
       <mapping ext="ttf" type="Native" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="mnu" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
