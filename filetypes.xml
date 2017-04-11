@@ -9,6 +9,7 @@
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="mnu" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
+      <mapping ext="donotdelete" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="lng" type="PLAIN_TEXT" />
       <mapping ext="psd1" type="PLAIN_TEXT" />
