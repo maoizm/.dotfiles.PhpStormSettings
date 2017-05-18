@@ -4,6 +4,7 @@
       <mapping pattern=".npmrc" type="Ini" />
       <mapping pattern=".editorconfig" type="Ini" />
       <removed_mapping ext="ini" type="Ini" />
+      <mapping ext="sublime-menu" type="JSON" />
       <mapping ext="markdown" type="Markdown" />
       <mapping ext="ttf" type="Native" />
       <mapping ext="bak" type="PLAIN_TEXT" />
